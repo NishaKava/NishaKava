@@ -5,9 +5,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishakava&label=Profile%20views&color=0e75b6&style=flat" alt="nishakava" /> </p>
 
 - 🌱 I’m currently learning **MERN stack**
-
+- 👨‍💻 All of my professional details :<br>  [https://nk-portfolio.vercel.app/](https://portfolio-nk-412.vercel.app/)
 - 📫 How to reach me **nishakava1665@gmail.com**
-
+- 📄 Know about my experiences :<br> https://drive.google.com/file/d/1nE_eYD0ssS8PwcwtRlQxCDJuDu3WWWI3/view?usp=drive_link<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nisha-kava-a4b091227" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nisha-kava-a4b091227" height="30" width="40" /></a>
